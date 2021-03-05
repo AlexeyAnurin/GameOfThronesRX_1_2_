@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Game of Thrones2</string>
+    <string name="message_no_internet">Интернет недоступен - приложение не может быть запущенно. Подключитесь к интернету и перезапустите приложение</string>
+    <string name="hint_search">Search character</string>
+
+    <string name="stark_title">Stark</string>
+    <string name="lannister_title">Lannister</string>
+    <string name="targaryen_title">Targaryen</string>
+    <string name="baratheon_title">Baratheon</string>
+    <string name="greyjoy_title">Greyjoy</string>
+    <string name="martel_title">Martell</string>
+    <string name="tyrell_title">Tyrell</string>
+
+    <string name="header_words">Words:</string>
+    <string name="header_born">Born:</string>
+    <string name="header_titles">Titles:</string>
+    <string name="header_aliases">Aliases:</string>
+    <string name="header_father">Father:</string>
+    <string name="header_mother">Mother:</string>
+    <string name="activity_label">Game of Thrones</string>
+</resources>
